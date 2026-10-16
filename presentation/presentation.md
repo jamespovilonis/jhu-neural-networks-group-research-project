@@ -76,6 +76,30 @@ Daniel Wang, James Povilonis, Jose Perales
 
 ---
 
+# Amazon Forest Wildfires
+- The Amazon is a vast, dense rainforest. For most of history, forest fires were rare.
+- Forest fires move slowly, in contrast to massive blazes of North America.
+- Flora in the rainforest are not adapted to these fires. 
+
+> World Resources Institute. "South America's Forest Fires, Explained." WRI Insights, 2024
+>
+> Cochrane, Mark A. "Fire Science for Rainforests." Nature, vol. 421, no. 6926, 2003, pp. 913–919.
+
+---
+
+# Causes of the Wildfires
+The Amazon was historically fire-resistant, but is experiencing increased seasonal wildfires. This change has several causes:
+- **Forest Fragmentation**: As logging increasingly moves into the interior, more winds fuel the fires.
+- **Climate Change**: Warming climate and more intense droughts have led to higher probabilities of fire outbreaks and more difficult containment. (
+- **Direct Human Action**: Land speculation, slash-and-burn clearing, and varying environmental enforcement increase deforestation and creates more outbreaks (NC state)
+
+> Bourgoin, C., et al. "Extensive Fire-Driven Degradation in 2024 Marks Worst Amazon Fire Season in Two Decades." Biogeosciences, 2025.
+> 
+> Dutra, Débora Joana, et al. "Fire Dynamics in an Emerging Deforestation Frontier in Southwestern Amazonia, Brazil." Fire, vol. 6, no. 1, 2022, p. 2.
+> 
+> Silveira, Marcus V. F., et al. "Drivers of Fire Anomalies in the Brazilian Amazon: Lessons Learned from the 2019 Fire Crisis." Land, vol. 9, no. 12, 2020, p. 516.
+---
+
 # Where the dataset comes from
 
 ![bg right:42% contain](figures/hotspot_map.png)
