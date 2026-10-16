@@ -77,6 +77,7 @@ Daniel Wang, James Povilonis, Jose Perales
 ---
 
 # Amazon Forest Wildfires
+![w:640](figures/A-plume-of-smoke.jpg)
 - The Amazon is a vast, dense rainforest. For most of history, forest fires were rare.
 - Forest fires move slowly, in contrast to massive blazes of North America.
 - Flora in the rainforest are not adapted to these fires. 
@@ -88,6 +89,8 @@ Daniel Wang, James Povilonis, Jose Perales
 ---
 
 # Causes of the Wildfires
+![w:640](figures/p224r063_20010709_321.jpg)
+
 The Amazon was historically fire-resistant, but is experiencing increased seasonal wildfires. This change has several causes:
 - **Forest Fragmentation**: As logging increasingly moves into the interior, more winds fuel the fires.
 - **Climate Change**: Warming climate and more intense droughts have led to higher probabilities of fire outbreaks and more difficult containment. (
